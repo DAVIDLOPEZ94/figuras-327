@@ -22,6 +22,6 @@ switch (opcion) {
          break;
 
     default:
-        alert (" La opcion escogida no es valida")
+        alert (" La opcion escogida no es valida,")
         break;
 }
